@@ -1,7 +1,4 @@
-Excellent — that's all 6 labs complete. That's a genuinely strong portfolio for someone in your position. Before pointing you to the next project, let's make sure Lab 6 gets its proper write-up since it's the capstone piece.
-
-Lab 6 README (ready to commit)
-markdown# Lab 06 – Enterprise Capstone
+# Lab 06 – Enterprise Capstone
 
 ## Objective
 Combines VLANs, inter-VLAN routing, OSPF, wireless connectivity, and ACL-based 
